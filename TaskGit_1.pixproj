@@ -6,6 +6,22 @@
       <IsMain>true</IsMain>
       <Path>Main.pix</Path>
     </ProjectFileItem>
+    <ProjectFileItem z:Id="i3">
+      <IsMain>false</IsMain>
+      <Path>Summ.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i4">
+      <IsMain>false</IsMain>
+      <Path>Diff.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i5">
+      <IsMain>false</IsMain>
+      <Path>Mult.pix</Path>
+    </ProjectFileItem>
+    <ProjectFileItem z:Id="i6">
+      <IsMain>false</IsMain>
+      <Path>Div.pix</Path>
+    </ProjectFileItem>
   </Files>
   <MasterUploadId i:nil="true" />
   <Name>TaskGit_1</Name>
